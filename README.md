@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Soy un joven programador chileno de 21 años con un fuerte deseo de sobresalir en el mundo del desarrollo. Mi pasión por la programación me lleva a buscar constantemente oportunidades para aprender y crecer. Estoy ansioso por participar en proyectos desafiantes y colaborativos que me permitan aplicar mis habilidades de manera significativa.<br>Si compartes mi visión de impulsar el cambio a través de la tecnología, estaré encantado de conectarte. ¡Juntos podemos marcar la diferencia en el mundo digital!
+Soy un joven programador chileno de 21 años con un fuerte deseo de sobresalir en el mundo del desarrollo. Mi pasión por la programación me lleva a buscar constantemente oportunidades para aprender y crecer. Estoy ansioso por participar en proyectos desafiantes y colaborativos que me permitan aplicar mis habilidades de manera significativa.<br>Si compartes mi visión de impulsar el cambio a través de la tecnología, estaré encantado de conectarte.
 
 
 # 💻 Tecnologías:
