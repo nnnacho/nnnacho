@@ -7,7 +7,6 @@ Soy un joven programador chileno de 21 años con un fuerte deseo de sobresalir e
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nnnacho&icon=2&color=1)](https://visitcount.itsvg.in)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=nnnacho&label=Vistas%20de%20Perfil&color=11&icon=2&pretty=true" />
 </a>
